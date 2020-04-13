@@ -4,6 +4,8 @@ My solution to the Rockeseat's GoStack challenge.
 
 ✔ All tests passed.
 
+![](screen.png)
+
 To run tests:
 
 ```
