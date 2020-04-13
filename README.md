@@ -2,7 +2,7 @@
 
 My solution to the Rockeseat's GoStack challenge.
 
-🕑 Time to go!
+✔ All tests passed.
 
 To run tests:
 
